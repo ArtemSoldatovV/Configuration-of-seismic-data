@@ -7,4 +7,5 @@
 ## результат
 ### должен выглядеть как-то так
 <img width="1920" height="450" alt="разрез 100" src="https://github.com/user-attachments/assets/ab93e5ea-604e-425c-a654-4991202d5554" />
+
 ### рисунок сделан по данным файла f3_dataset.sgy с https://www.kaggle.com/datasets/gustavoscholze/f3-dataset/data
